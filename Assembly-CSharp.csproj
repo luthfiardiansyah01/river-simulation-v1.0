@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ColorBar.cs" />
+    <Compile Include="Assets\Scripts\EmergencyManager.cs" />
     <Compile Include="Assets\Scripts\SimulationController.cs" />
     <Compile Include="Assets\Scripts\UIManager.cs" />
     <Compile Include="Assets\Scripts\FloodRiskDummy.cs" />

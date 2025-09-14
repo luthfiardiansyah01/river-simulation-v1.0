@@ -353,6 +353,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.32f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/ColorBar.cs"
+"Assets/Scripts/EmergencyManager.cs"
 "Assets/Scripts/FloodRiskDummy.cs"
 "Assets/Scripts/SimulationController.cs"
 "Assets/Scripts/UIManager.cs"
